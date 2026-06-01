@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari",
+      "category": "Hadith",
+      "language": "Arabic",
+      "description": "One of the six major hadith collections in Sunni Islam, compiled by Imam al-Bukhari. It contains over 7,000 hadith with full chains of narration.",
+      "volumes": 9,
+      "hadith_count": 7563
+    },
+    {
+      "id": 2,
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Abu Isa Muhammad at-Tirmidhi",
+      "category": "Hadith",
+      "language": "Arabic",
+      "description": "One of the six major hadith collections, compiled by Imam at-Tirmidhi. Known for grading hadith and noting scholarly differences of opinion.",
+      "volumes": 6,
+      "hadith_count": 3956
+    },
+    {
+      "id": 3,
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj",
+      "category": "Hadith",
+      "language": "Arabic",
+      "description": "The second most authentic hadith collection after Sahih al-Bukhari, compiled by Imam Muslim.",
+      "volumes": 7,
+      "hadith_count": 7500
+    },
+    {
+      "id": 4,
+      "title": "Sunan Abu Dawud",
+      "author": "Imam Abu Dawud as-Sijistani",
+      "category": "Hadith",
+      "language": "Arabic",
+      "description": "One of the six major hadith collections, focusing on legal hadith and rulings.",
+      "volumes": 4,
+      "hadith_count": 5274
+    },
+    {
+      "id": 5,
+      "title": "Sunan an-Nasa'i",
+      "author": "Imam Ahmad an-Nasa'i",
+      "category": "Hadith",
+      "language": "Arabic",
+      "description": "One of the six major hadith collections, known for its strict criteria in accepting narrators.",
+      "volumes": 6,
+      "hadith_count": 5761
+    },
+    {
+      "id": 6,
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah",
+      "category": "Hadith",
+      "language": "Arabic",
+      "description": "The sixth of the major hadith collections, compiled by Imam Ibn Majah.",
+      "volumes": 5,
+      "hadith_count": 4341
+    }
+  ]
+}
